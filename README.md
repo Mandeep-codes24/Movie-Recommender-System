@@ -13,6 +13,7 @@ The system is deployed as an interactive web app using Streamlit.
 
 ⚙️ Features
 🎯 Recommend Top 5 similar movies
+
 🧠 Uses content-based filtering
 🔍 NLP-based feature extraction (tags, cast, genres, keywords)
 🎞 Fetches movie posters using TMDB API
